@@ -2,4 +2,4 @@
 
 <h3>Aprendendo Golang</h3>
 
-Curso disponibilizado pelo canal [Aprendendo Go](https://www.youtube.com/c/AprendaGo)
+Curso disponibilizado pelo canal [Aprenda Go](https://www.youtube.com/c/AprendaGo)
